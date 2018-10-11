@@ -21,7 +21,12 @@
 %   read geometry.pdf for detailed page layout information
 
 \usepackage{graphicx} % support the \includegraphics command and options
+\usepackage[most]{tcolorbox} % для управления цветом
 
+% Настройка для рамки вокруг текста
+\definecolor{block-gray}{gray}{0.90} % уровень прозрачности (1 - максимум)
+\newtcolorbox{myquote}{colframe=block-gray,grow to right by=-10mm,grow to left by=-10mm,
+boxrule=1pt,boxsep=0pt,breakable} % настройки области с изменённым фоном
 % \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
 
 %%% PACKAGES
@@ -61,5 +66,7 @@
 
 \begin{document}
 \maketitle
+\begin{myquote}
 \input{envs/planet.tex}
+\end{myquote}
 \end{document}
