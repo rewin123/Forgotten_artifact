@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 20:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -1324,12 +1324,17 @@ Underfull \hbox (badness 2359) in paragraph at lines 1--93
 []\T2A/cmr/m/n/10.95 Деревня выделила проводика до храма. Он спокойно вел
  []
 
+(envs/temple.tex)
+Underfull \hbox (badness 3690) in paragraph at lines 1--97
+\T2A/cmr/m/n/10.95 деревья, оплетая корнями обсидановые блоки храма. На
+ []
+
 [2] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 30469 strings out of 492970
- 622842 string characters out of 3126593
+ 30474 strings out of 492970
+ 622963 string characters out of 3126593
  682272 words of memory out of 3000000
- 33930 multiletter control sequences out of 15000+200000
+ 33932 multiletter control sequences out of 15000+200000
  538463 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,11n,101p,887b,887s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1337,7 +1342,7 @@ Here is how much of TeX's memory you used:
 -t2a\dpi600\larm1095.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
 ur\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts
 \pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk>
-Output written on main.pdf (2 pages, 46896 bytes).
+Output written on main.pdf (2 pages, 47393 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
