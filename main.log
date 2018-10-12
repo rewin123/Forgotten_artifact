@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 12:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -1301,15 +1301,20 @@ Underfull \hbox (badness 1221) in paragraph at lines 1--76
 \T2A/cmr/m/n/10.95 монолитные джунгли, создавая ощущение, что человек здесь
  []
 
+(envs/fly_good.tex)
+Underfull \hbox (badness 2253) in paragraph at lines 1--80
+[]\T2A/cmr/m/n/10.95 Не заходя на посадку, вы решил искать храм по воздуху.
+ []
+
 [1
 
 {C:/Users/rewin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 30422 strings out of 492970
- 621716 string characters out of 3126593
- 679272 words of memory out of 3000000
- 33895 multiletter control sequences out of 15000+200000
+ 30429 strings out of 492970
+ 621895 string characters out of 3126593
+ 680272 words of memory out of 3000000
+ 33899 multiletter control sequences out of 15000+200000
  538463 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,6n,101p,887b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1317,9 +1322,9 @@ Here is how much of TeX's memory you used:
 m1095.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
 i600\larm1200.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\l
 h-t2a\dpi600\larm1728.pk>
-Output written on main.pdf (1 page, 39676 bytes).
+Output written on main.pdf (1 page, 41175 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
