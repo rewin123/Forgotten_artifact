@@ -23,6 +23,7 @@
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage[most]{tcolorbox} % для управления цветом
 
+\definecolor{sw}{RGB}{229,177,58}
 % Настройка для рамки вокруг текста
 \definecolor{block-gray}{gray}{0.90} % уровень прозрачности (1 - максимум)
 \newtcolorbox{myquote}{colframe=block-gray,grow to right by=-10mm,grow to left by=-10mm,
@@ -65,12 +66,15 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 %\date{} % Activate to display a give date or no date (if empty),
          % otherwise the current date is printed 
 
+\color{sw}
 \begin{document}
+\pagecolor{black}
 \maketitle %титульная страница
 \newpage
 \tableofcontents %оглавление
 \newpage
 \section{В поисках храма}
+
 \begin{myquote}
 \input{envs/planet.tex}
 \end{myquote}
@@ -95,7 +99,7 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 \begin{myquote}
 \input{envs/village_to_temple.tex}
 \end{myquote}
-
+\section{Храм лорда ситхов}
 \begin{myquote}
 \input{envs/temple.tex}
 \end{myquote}
