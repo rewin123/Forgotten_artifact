@@ -4,7 +4,7 @@
 % This is a simple template for a LaTeX document using the "article" class.
 % See "book", "report", "letter" for other types of document.
 
-\documentclass[11pt]{article} % use larger type; default would be 10pt
+\documentclass{article}[10pt]% use larger type; default would be 10pt
 
 \usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
 \usepackage[T2A]{fontenc}
@@ -14,8 +14,8 @@
 % See the LaTeX Companion or other references for full information.
 
 %%% PAGE DIMENSIONS
-\usepackage{geometry} % to change the page dimensions
-\geometry{a4paper} % or letterpaper (US) or a5paper or....
+%\usepackage{geometry} % to change the page dimensions
+%\geometry{a4paper} % or letterpaper (US) or a5paper or....
 % \geometry{margin=2in} % for example, change the margins to 2 inches all round
 % \geometry{landscape} % set up the page for landscape
 %   read geometry.pdf for detailed page layout information
@@ -23,11 +23,11 @@
 \usepackage{graphicx} % support the \includegraphics command and options
 \usepackage[most]{tcolorbox} % для управления цветом
 
-\definecolor{sw}{RGB}{229,177,58}
+\definecolor{sw}{RGB}{229,177,58} %Цвет текста звездных войн эпизода 1
 % Настройка для рамки вокруг текста
 \definecolor{block-gray}{gray}{0.90} % уровень прозрачности (1 - максимум)
-\newtcolorbox{myquote}{colframe=block-gray,grow to right by=-10mm,grow to left by=-10mm,
-boxrule=2pt,boxsep=0pt,breakable} % настройки области с изменённым фоном
+\newtcolorbox{myquote}{colframe=sw, colback=black,grow to right by=-10mm,grow to left by=-10mm,
+boxrule=2pt,boxsep=0pt} % настройки области с изменённым фоном
 % \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
 
 %%% PACKAGES
@@ -57,8 +57,6 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
 %%% END Article customizations
 
-\oddsidemargin=0pt
-
 %%% The "real" document content comes below...
 
 \title{Забытый артефакт}
@@ -76,31 +74,39 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 \section{В поисках храма}
 
 \begin{myquote}
+\pagecolor{black}
+\color{sw}
 \input{envs/planet.tex}
 \end{myquote}
 \subsection{Воздушный вояж}
 \begin{myquote}
+\color{sw}
 \input{envs/fly_good.tex}
 \end{myquote}
 
 
 \begin{myquote}
+\color{sw}
 \input{envs/fly_bad.tex}
 \end{myquote}
 \subsection{С дипломатической миссией к каннибалам}
 \begin{myquote}
+\color{sw}
 \input{envs/landing.tex}
 \end{myquote}
 
 \begin{myquote}
+\color{sw}
 \input{envs/village_far.tex}
 \end{myquote}
 
 \begin{myquote}
+\color{sw}
 \input{envs/village_to_temple.tex}
 \end{myquote}
 \section{Храм лорда ситхов}
 \begin{myquote}
+\color{sw}
 \input{envs/temple.tex}
 \end{myquote}
 \end{document}
