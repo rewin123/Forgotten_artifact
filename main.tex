@@ -54,8 +54,9 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 \usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
 \renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
 \renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
-
 %%% END Article customizations
+
+\oddsidemargin=0pt
 
 %%% The "real" document content comes below...
 
@@ -65,16 +66,15 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
          % otherwise the current date is printed 
 
 \begin{document}
-\maketitle
-
+\maketitle %титульная страница
+\newpage
+\tableofcontents %оглавление
+\newpage
+\section{В поисках храма}
 \begin{myquote}
 \input{envs/planet.tex}
 \end{myquote}
-
-\begin{myquote}
-\input{envs/landing.tex}
-\end{myquote}
-
+\subsection{Воздушный вояж}
 \begin{myquote}
 \input{envs/fly_good.tex}
 \end{myquote}
@@ -82,6 +82,10 @@ boxrule=2pt,boxsep=0pt,breakable} % настройки области с изм�
 
 \begin{myquote}
 \input{envs/fly_bad.tex}
+\end{myquote}
+\subsection{С дипломатической миссией к каннибалам}
+\begin{myquote}
+\input{envs/landing.tex}
 \end{myquote}
 
 \begin{myquote}
