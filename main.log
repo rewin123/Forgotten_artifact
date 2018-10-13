@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  13 OCT 2018 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  13 OCT 2018 18:24
 entering extended mode
 **./main.tex
 (main.tex
@@ -1188,24 +1188,24 @@ Underfull \hbox (badness 1655) in paragraph at lines 1--78
 \T2A/cmr/m/n/14.4 вел учеников сквозь сплошное переплетение лиан,
  []
 
-(envs/temple.tex) [5] [6] (main.aux) ) 
+(envs/temple.tex) [5] (envs/Guards_room.tex) [6] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 28338 strings out of 492970
- 590550 string characters out of 3126593
+ 28343 strings out of 492970
+ 590686 string characters out of 3126593
  636111 words of memory out of 3000000
- 31812 multiletter control sequences out of 15000+200000
+ 31814 multiletter control sequences out of 15000+200000
  541663 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,101p,887b,748s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\rewin\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\rewin\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\rewin\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\rewin\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\User
-s\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> 
-<C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2
-488.pk>
-Output written on main.pdf (6 pages, 2221294 bytes).
+ <C:\Users\rewin\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users
+\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <
+C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx20
+74.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\larm1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
+2a\dpi600\larm1728.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\larm2488.pk>
+Output written on main.pdf (6 pages, 2221644 bytes).
 PDF statistics:
  245 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
