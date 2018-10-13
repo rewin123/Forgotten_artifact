@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  13 OCT 2018 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  13 OCT 2018 16:57
 entering extended mode
 **./main.tex
 (main.tex
@@ -1013,184 +1013,38 @@ File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tcolorbox\tcbposte
 r.code.tex"
 Library (tcolorbox): 'tcbposter.code.tex' version '4.14'
-))
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.
-sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen199
-\lightrulewidth=\dimen256
-\cmidrulewidth=\dimen257
-\belowrulesep=\dimen258
-\belowbottomsep=\dimen259
-\aboverulesep=\dimen260
-\abovetopsep=\dimen261
-\cmidrulesep=\dimen262
-\cmidrulekern=\dimen263
-\defaultaddspace=\dimen264
-\@cmidla=\count292
-\@cmidlb=\count293
-\@aboverulesep=\dimen265
-\@belowrulesep=\dimen266
-\@thisruleclass=\count294
-\@lastruleclass=\count295
-\@thisrulewidth=\dimen267
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen268
-\ar@mcellbox=\box68
-\extrarowheight=\dimen269
-\NC@list=\toks38
-\extratabsurround=\skip52
-\backup@length=\skip53
-\ar@cellbox=\box69
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\paralist\paralist.
-sty"
-Package: paralist 2017/01/22 v2.7 Extended list environments
-\pltopsep=\skip54
-\plpartopsep=\skip55
-\plitemsep=\skip56
-\plparsep=\skip57
-\pl@lab=\toks39
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
-y"
-Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
-
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
-ty"
-Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen270
-\captionmargin@=\dimen271
-\captionwidth=\dimen272
-\caption@tempdima=\dimen273
-\caption@indent=\dimen274
-\caption@parindent=\dimen275
-\caption@hangindent=\dimen276
-)
-\c@ContinuedFloat=\count296
-Package caption Info: listings package is loaded.
-)
-\c@KVtest=\count297
-\sf@farskip=\skip58
-\sf@captopadj=\dimen277
-\sf@capskip=\skip59
-\sf@nearskip=\skip60
-\c@subfigure=\count298
-\c@subfigure@save=\count299
-\c@lofdepth=\count300
-\c@subtable=\count301
-\c@subtable@save=\count302
-\c@lotdepth=\count303
-\sf@top=\skip61
-\sf@bottom=\skip62
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
-sty"
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.st
-y"
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
-les
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibin
-d.sty"
-Package: tocbibind 2010/10/13 v1.5k extra ToC listings
-Package tocbibind Info: The document has section divisions on input line 50.
-
-
-Package tocbibind Note: Using section or other style headings.
-
-)
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.st
-y"
-Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip72
-\cftbeforetoctitleskip=\skip73
-\cftaftertoctitleskip=\skip74
-\cftbeforepartskip=\skip75
-\cftpartnumwidth=\skip76
-\cftpartindent=\skip77
-\cftbeforesecskip=\skip78
-\cftsecindent=\skip79
-\cftsecnumwidth=\skip80
-\cftbeforesubsecskip=\skip81
-\cftsubsecindent=\skip82
-\cftsubsecnumwidth=\skip83
-\cftbeforesubsubsecskip=\skip84
-\cftsubsubsecindent=\skip85
-\cftsubsubsecnumwidth=\skip86
-\cftbeforeparaskip=\skip87
-\cftparaindent=\skip88
-\cftparanumwidth=\skip89
-\cftbeforesubparaskip=\skip90
-\cftsubparaindent=\skip91
-\cftsubparanumwidth=\skip92
-\cftbeforeloftitleskip=\skip93
-\cftafterloftitleskip=\skip94
-\cftbeforefigskip=\skip95
-\cftfigindent=\skip96
-\cftfignumwidth=\skip97
-\cftbeforelottitleskip=\skip98
-\cftafterlottitleskip=\skip99
-\cftbeforetabskip=\skip100
-\cfttabindent=\skip101
-\cfttabnumwidth=\skip102
-\cftbeforesubfigskip=\skip103
-\cftsubfigindent=\skip104
-\cftsubfignumwidth=\skip105
-\cftbeforesubtabskip=\skip106
-\cftsubtabindent=\skip107
-\cftsubtabnumwidth=\skip108
-) (main.aux)
+)) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
-\scratchdimen=\dimen278
-\scratchbox=\box70
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count307
-\MPscratchDim=\dimen279
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count292
+\scratchdimen=\dimen199
+\scratchbox=\box68
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen256
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks39
 )
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
@@ -1227,98 +1081,89 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
-\c@lstlisting=\count310
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: End \AtBeginDocument code.
-\GPT@outputbox=\box71
+\c@lstlisting=\count298
+\GPT@outputbox=\box69
  [1
 
-{C:/Users/rewin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 72.
-
-
-("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.f
-d"
-File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) (main.toc)
+{C:/Users/rewin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2] (envs/planet.tex) (envs/fly_good.tex) (envs/fly_bad.tex)
-(envs/landing.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--96
+ [2] (envs/planet.tex)
+(envs/fly_good.tex) (envs/fly_bad.tex) (envs/landing.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--68
 []\T2A/cmr/m/n/10 Медленно приближаясь, поверхность планеты
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--96
+Underfull \hbox (badness 10000) in paragraph at lines 1--68
 \T2A/cmr/m/n/10 превращалась в монолитные джунгли, создавая
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 1--96
+Underfull \hbox (badness 1107) in paragraph at lines 1--68
 \T2A/cmr/m/n/10 ногу. А где-то далеко кричало большое животное,
  []
 
 [3] (envs/village_far.tex)
-Underfull \hbox (badness 3019) in paragraph at lines 1--101
+Underfull \hbox (badness 3019) in paragraph at lines 1--73
 []\T2A/cmr/m/n/10 Сквозь сплошной покров начали пробиваться лучи
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 1--101
+Underfull \hbox (badness 2073) in paragraph at lines 1--73
 \T2A/cmr/m/n/10 ничего растительного не было. Из тонких веток,
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 1--101
+Underfull \hbox (badness 1635) in paragraph at lines 1--73
 \T2A/cmr/m/n/10 скрученных стеблей травы, огромных листьев были
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 1--101
+Underfull \hbox (badness 2913) in paragraph at lines 1--73
 \T2A/cmr/m/n/10 резвилась смуглая ребятня, занимались рукоделием
  []
 
 (envs/village_to_temple.tex) (envs/temple.tex)
-Underfull \hbox (badness 1147) in paragraph at lines 1--111
+Underfull \hbox (badness 1147) in paragraph at lines 1--83
 []\T2A/cmr/m/n/10 Мрачное, низкое строение, по верх которого растут
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 1--111
+Underfull \hbox (badness 2020) in paragraph at lines 1--83
 \T2A/cmr/m/n/10 низкорослые деревья, оплетая корнями обсидановые
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 1--111
+Underfull \hbox (badness 1308) in paragraph at lines 1--83
 \T2A/cmr/m/n/10 блоки храма. На поверхости стен выгравированны
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 1--111
+Underfull \hbox (badness 1509) in paragraph at lines 1--83
 \T2A/cmr/m/n/10 Меж строк изображены жервоприношений, создание
  []
 
 [4] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 29987 strings out of 492973
- 615913 string characters out of 3126693
- 667712 words of memory out of 3000000
- 33441 multiletter control sequences out of 15000+200000
- 545162 words of font info for 49 fonts, out of 3000000 for 9000
+ 27962 strings out of 492973
+ 581836 string characters out of 3126693
+ 628561 words of memory out of 3000000
+ 31459 multiletter control sequences out of 15000+200000
+ 541866 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,101p,887b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,6n,101p,887b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
--t2a\dpi600\lass1200.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\lh\lh-t2a\dpi600\lass1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\rewin\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk>
-Output written on main.pdf (4 pages, 67310 bytes).
+-t2a\dpi600\labx1200.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\lh\lh-t2a\dpi600\labx1000.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\rewin\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\rewin\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk>
+Output written on main.pdf (4 pages, 75286 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
+ 236 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
