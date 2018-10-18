@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  13 OCT 2018 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  18 OCT 2018 09:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -1133,14 +1133,22 @@ s_img.jpg>] (main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2] (envs/planet.tex) (envs/fly_good.tex)
-Underfull \hbox (badness 4779) in paragraph at lines 1--59
-[]\T2A/cmr/m/n/14.4 Ќе заход€ на посадку, вы решил искать храм
+ [2] (envs/planet.tex)
+Overfull \hbox (11.27751pt too wide) in paragraph at lines 53--57
+\T2A/cmr/m/n/14.4 тогда перелестни на главу "— дипломатической миссией к канниб
+алам"
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 1--59
-\T2A/cmr/m/n/14.4 по воздуху. —пустив свой корабь к макушкам
+Overfull \hbox (10.51389pt too wide) in paragraph at lines 58--61
+\T2A/cmr/m/n/14.4 ¬ стандартной ситуации во врем€ поиска храма на персонажей на
+летит
+ []
+
+
+Overfull \hbox (2.77939pt too wide) in paragraph at lines 58--61
+\T2A/cmr/m/n/14.4 смотри в главе про путешествие пещком <>). ≈сли персонажи бро
+с€т
  []
 
 (envs/fly_bad.tex
@@ -1189,37 +1197,37 @@ Underfull \hbox (badness 1655) in paragraph at lines 1--81
  []
 
 (envs/temple.tex) [5] (envs/Guards_room.tex)
-Underfull \hbox (badness 3635) in paragraph at lines 1--94
+Underfull \hbox (badness 3635) in paragraph at lines 1--97
 \T2A/cmr/m/n/14.4 злобных духов, возвращенных к жизни могучим
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 1--94
+Underfull \hbox (badness 4429) in paragraph at lines 1--97
 \T2A/cmr/m/n/14.4 описание самих ритуалов можно найти тут же,
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 1--94
+Underfull \hbox (badness 4832) in paragraph at lines 1--97
 \T2A/cmr/m/n/14.4 которые вы видели ранее. ¬аши шаги гулко
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 1--94
+Underfull \hbox (badness 4108) in paragraph at lines 1--97
 \T2A/cmr/m/n/14.4   сожалению, призраки не настроены вас туда
  []
 
 
-Overfull \hbox (0.83598pt too wide) in paragraph at lines 95--99
+Overfull \hbox (0.83598pt too wide) in paragraph at lines 98--102
 \T2A/cmr/m/n/14.4 (если, конечно, вам не противно применение —ветлой стороны в 
 своем
  []
 
 [6] [7] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 28342 strings out of 492973
- 590793 string characters out of 3126693
- 634977 words of memory out of 3000000
- 31811 multiletter control sequences out of 15000+200000
+ 28338 strings out of 492973
+ 590676 string characters out of 3126693
+ 635977 words of memory out of 3000000
+ 31810 multiletter control sequences out of 15000+200000
  541663 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,101p,887b,748s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1230,9 +1238,9 @@ onts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\rewin\AppData\Local\MiKT
 eX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\rewin\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\rewin\Ap
 pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk>
-Output written on main.pdf (7 pages, 2225900 bytes).
+Output written on main.pdf (7 pages, 2229415 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
+ 264 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 

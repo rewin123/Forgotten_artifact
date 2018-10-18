@@ -4,3 +4,4 @@
 *.gz
 main.log
 *.log
+main.synctex(busy)
