@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  18 OCT 2018 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  18 OCT 2018 23:03
 entering extended mode
 **./main.tex
 (main.tex
@@ -1371,6 +1371,12 @@ Overfull \hbox (10.51389pt too wide) in paragraph at lines 61--64
  []
 
 
+Overfull \hbox (71.06183pt too wide) in paragraph at lines 61--64
+\T2A/cmr/m/n/14.4 до храма на каждом километре пути им встретится местная живно
+сть(подробнее
+ []
+
+
 Overfull \hbox (2.77939pt too wide) in paragraph at lines 61--64
 \T2A/cmr/m/n/14.4 смотри в главе про путешествие пещком <>). Если персонажи бро
 сят
@@ -1821,7 +1827,7 @@ lh-t2a\dpi600\labx2074.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\rewin\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk>
-Output written on main.pdf (10 pages, 2257964 bytes).
+Output written on main.pdf (10 pages, 2258057 bytes).
 PDF statistics:
  341 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
