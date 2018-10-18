@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.12)  13 OCT 2018 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.9)  13 OCT 2018 19:44
 entering extended mode
 **./main.tex
 (main.tex
@@ -976,7 +976,7 @@ Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
 mds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
@@ -994,7 +994,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 ("C:\Users\rewin\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1134,12 +1134,12 @@ s_img.jpg>] (main.toc)
 \openout6 = `main.toc'.
 
  [2] (envs/planet.tex) (envs/fly_good.tex)
-Underfull \hbox (badness 4779) in paragraph at lines 1--57
+Underfull \hbox (badness 4779) in paragraph at lines 1--59
 []\T2A/cmr/m/n/14.4 Ќе заход€ на посадку, вы решил искать храм
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 1--57
+Underfull \hbox (badness 3009) in paragraph at lines 1--59
 \T2A/cmr/m/n/14.4 по воздуху. —пустив свой корабь к макушкам
  []
 
@@ -1159,55 +1159,80 @@ Underfull \hbox (badness 1038) in paragraph at lines 1--9
  []
 
 ) [3] (envs/landing.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--68
+Underfull \hbox (badness 10000) in paragraph at lines 1--71
 []\T2A/cmr/m/n/14.4 ћедленно приближа€сь, поверхность планеты
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--68
+Underfull \hbox (badness 10000) in paragraph at lines 1--71
 \T2A/cmr/m/n/14.4 превращалась в монолитные джунгли, создава€
  []
 
 
-Underfull \hbox (badness 6445) in paragraph at lines 1--68
+Underfull \hbox (badness 6445) in paragraph at lines 1--71
 \T2A/cmr/m/n/14.4 ощущение, что человек здесь никогда не был.
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 1--68
+Underfull \hbox (badness 2460) in paragraph at lines 1--71
 \T2A/cmr/m/n/14.4  аждое дерево, казалось, рослосло более тыс€чи
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 1--68
+Underfull \hbox (badness 2744) in paragraph at lines 1--71
 \T2A/cmr/m/n/14.4 больше подход€щих дубовым стволам, спускались
  []
 
 [4] (envs/village_far.tex) (envs/village_to_temple.tex)
-Underfull \hbox (badness 1655) in paragraph at lines 1--78
+Underfull \hbox (badness 1655) in paragraph at lines 1--81
 \T2A/cmr/m/n/14.4 вел учеников сквозь сплошное переплетение лиан,
  []
 
-(envs/temple.tex) [5] (envs/Guards_room.tex) [6] (main.aux) ) 
+(envs/temple.tex) [5] (envs/Guards_room.tex)
+Underfull \hbox (badness 3635) in paragraph at lines 1--94
+\T2A/cmr/m/n/14.4 злобных духов, возвращенных к жизни могучим
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 1--94
+\T2A/cmr/m/n/14.4 описание самих ритуалов можно найти тут же,
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 1--94
+\T2A/cmr/m/n/14.4 которые вы видели ранее. ¬аши шаги гулко
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 1--94
+\T2A/cmr/m/n/14.4   сожалению, призраки не настроены вас туда
+ []
+
+
+Overfull \hbox (0.83598pt too wide) in paragraph at lines 95--99
+\T2A/cmr/m/n/14.4 (если, конечно, вам не противно применение —ветлой стороны в 
+своем
+ []
+
+[6] [7] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 28343 strings out of 492970
- 590686 string characters out of 3126593
- 636111 words of memory out of 3000000
- 31814 multiletter control sequences out of 15000+200000
+ 28342 strings out of 492973
+ 590793 string characters out of 3126693
+ 634977 words of memory out of 3000000
+ 31811 multiletter control sequences out of 15000+200000
  541663 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,101p,887b,748s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\rewin\A
-ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users
-\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <
-C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx20
-74.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
-0\larm1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
-2a\dpi600\larm1728.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\lh\lh-t2a\dpi600\larm2488.pk>
-Output written on main.pdf (6 pages, 2221644 bytes).
+ <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\labx1728.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\rewin\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\rewin\AppData\Local\MiKT
+eX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\rewin\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\rewin\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk>
+Output written on main.pdf (7 pages, 2225900 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
+ 256 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
